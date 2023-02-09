@@ -1,13 +1,42 @@
 {
   "files": {
-    "main.css": "/high-card-bootcamp/static/css/main.d0753a41.css",
-    "main.js": "/high-card-bootcamp/static/js/main.a1097358.js",
+    "main.css": "/high-card-bootcamp/static/css/main.e667a491.css",
+    "main.js": "/high-card-bootcamp/static/js/main.8adf5599.js",
+    "static/media/Cat1.png": "/high-card-bootcamp/static/media/Cat1.12d65b017dd95052e7f6.png",
+    "static/media/Cat19.png": "/high-card-bootcamp/static/media/Cat19.16c16ab36b7d0147e24b.png",
+    "static/media/Cat2.png": "/high-card-bootcamp/static/media/Cat2.dd6662e84645264090f2.png",
+    "static/media/Cat8.png": "/high-card-bootcamp/static/media/Cat8.77ddcfbed879025fb5c3.png",
+    "static/media/Cat28.png": "/high-card-bootcamp/static/media/Cat28.9019ee5e3c9bc4e91cd0.png",
+    "static/media/Cat27.png": "/high-card-bootcamp/static/media/Cat27.1fa76a90e5a08bd3ffd5.png",
+    "static/media/Cat15.png": "/high-card-bootcamp/static/media/Cat15.18a7b313d044cde3a5ad.png",
+    "static/media/Cat3.png": "/high-card-bootcamp/static/media/Cat3.c59a17aad9986c12b130.png",
+    "static/media/Cat12.png": "/high-card-bootcamp/static/media/Cat12.05b7ed281bc57c7411f0.png",
+    "static/media/Cat9.png": "/high-card-bootcamp/static/media/Cat9.8e518304b00405b45043.png",
+    "static/media/Cat26.png": "/high-card-bootcamp/static/media/Cat26.2ff29f5ecc5e013d7650.png",
+    "static/media/Cat22.png": "/high-card-bootcamp/static/media/Cat22.9708f6ac8fa8b7ef5e79.png",
+    "static/media/Cat7.png": "/high-card-bootcamp/static/media/Cat7.f38be2ce1281c0b9fd47.png",
+    "static/media/Cat24.png": "/high-card-bootcamp/static/media/Cat24.f9f13739fcd2fb5924d4.png",
+    "static/media/Cat17.png": "/high-card-bootcamp/static/media/Cat17.2ec8d40b65235c213f26.png",
+    "static/media/Cat4.png": "/high-card-bootcamp/static/media/Cat4.9ab7a43f1788c123f40a.png",
+    "static/media/Cat21.png": "/high-card-bootcamp/static/media/Cat21.20ed06cdc92e264da452.png",
+    "static/media/Cat25.png": "/high-card-bootcamp/static/media/Cat25.125a6c9d5c96e09b8fe1.png",
+    "static/media/Cat16.png": "/high-card-bootcamp/static/media/Cat16.a686200a3418b9850942.png",
+    "static/media/Cat14.png": "/high-card-bootcamp/static/media/Cat14.ba202cb4e2eea6a6bbe7.png",
+    "static/media/Cat13.png": "/high-card-bootcamp/static/media/Cat13.868c5f849d48878ed10e.png",
+    "static/media/Cat5.png": "/high-card-bootcamp/static/media/Cat5.fa0df3933274e9c336b6.png",
+    "static/media/Cat29.png": "/high-card-bootcamp/static/media/Cat29.fb60ed10ba289e9daf34.png",
+    "static/media/Cat20.png": "/high-card-bootcamp/static/media/Cat20.6fb39830e7a1f3d9aa9f.png",
+    "static/media/Cat6.png": "/high-card-bootcamp/static/media/Cat6.9bfb09c36e0cc6b42681.png",
+    "static/media/Cat10.png": "/high-card-bootcamp/static/media/Cat10.87c2cfaef23d6a0d7925.png",
+    "static/media/Cat23.png": "/high-card-bootcamp/static/media/Cat23.976adbf0adcb6c1cf733.png",
+    "static/media/Cat11.png": "/high-card-bootcamp/static/media/Cat11.7bfc07f8d461a63b5bd8.png",
+    "static/media/Cat18.png": "/high-card-bootcamp/static/media/Cat18.1ffa57aec8685e9c101f.png",
     "index.html": "/high-card-bootcamp/index.html",
-    "main.d0753a41.css.map": "/high-card-bootcamp/static/css/main.d0753a41.css.map",
-    "main.a1097358.js.map": "/high-card-bootcamp/static/js/main.a1097358.js.map"
+    "main.e667a491.css.map": "/high-card-bootcamp/static/css/main.e667a491.css.map",
+    "main.8adf5599.js.map": "/high-card-bootcamp/static/js/main.8adf5599.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0753a41.css",
-    "static/js/main.a1097358.js"
+    "static/css/main.e667a491.css",
+    "static/js/main.8adf5599.js"
   ]
 }
